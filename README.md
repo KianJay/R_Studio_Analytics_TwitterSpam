@@ -18,12 +18,13 @@ head() is often used to return the first or last parts of a vector, matrix, tabl
 <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577557-ca598a80-5dbd-11eb-9ad2-671fb812a98b.png" alt="1-2" />
 
 <h2>2.	Print the number of observations and variables in Twitter Spam dataset.</h2>
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577559-cc234e00-5dbd-11eb-9552-3c189de47ba1.png" alt="2" />
 
 To print the number of observations and variables, I use str(TwitterSpam) and even to Conceptualize it as a matric, I use dim(TwitterSpam). 
 
 str(object, …) is used to compactly display the internal structure of an R object, a diagnostic function and an alternative to summary.
 dim(x) is used to retrieve or set the dimension of an object.
+
+<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577559-cc234e00-5dbd-11eb-9552-3c189de47ba1.png" alt="2" />
 
 <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577561-ce85a800-5dbd-11eb-903f-c9f651da9e9b.png" alt="2-2" />
 

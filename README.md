@@ -1,6 +1,8 @@
 # R_Studio_Analytics_TwitterSpam
 R_Studio_Analytics_TwitterSpam
 
+<strong> Contributed by Kian (Duyoung Jang) </strong>
+Machine Learning For Hackers by Drew Conway & John Myles White</br>
 In this assessment, I will apply the data analytics and visualization skills to analyse the provided Twitter Spam dataset. 
 Table 1 shows the features description of the dataset.
 
@@ -68,3 +70,6 @@ As a result, I learned how to load dataset into R studio and a number of common 
 
 <h3>REFERENCE</h3>
 23. 01. 2021 R studio commands: https://www.rdocumentation.org
+Machine Learning For Hackers by Drew Conway & John Myles White
+
+Contributed by Kian(Duyoung Jang)

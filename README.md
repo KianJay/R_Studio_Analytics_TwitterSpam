@@ -69,7 +69,7 @@ As a result, I learned how to load dataset into R studio and a number of common 
 <img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577575-d7767980-5dbd-11eb-9de1-18c6780a3d70.png" alt="6" />
 
 <h3>REFERENCE</h3>
-23. 01. 2021 R studio commands: https://www.rdocumentation.org
+23. 01. 2021 R studio commands: https://www.rdocumentation.org </br>
 Machine Learning For Hackers by Drew Conway & John Myles White
 
 Contributed by Kian(Duyoung Jang)

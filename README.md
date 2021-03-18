@@ -26,9 +26,9 @@ To print the number of observations and variables, I use str(TwitterSpam) and ev
 str(object, …) is used to compactly display the internal structure of an R object, a diagnostic function and an alternative to summary.
 dim(x) is used to retrieve or set the dimension of an object.
 
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577559-cc234e00-5dbd-11eb-9552-3c189de47ba1.png" alt="2" />
+<img src="https://user-images.githubusercontent.com/54985943/105577559-cc234e00-5dbd-11eb-9552-3c189de47ba1.png" alt="2" />
 
-<img width="500" height="auto" src="https://user-images.githubusercontent.com/54985943/105577561-ce85a800-5dbd-11eb-903f-c9f651da9e9b.png" alt="2-2" />
+<img src="https://user-images.githubusercontent.com/54985943/105577561-ce85a800-5dbd-11eb-903f-c9f651da9e9b.png" alt="2-2" />
 
 
 <h2>3.	Compute variance and standard deviation of the ‘account_age’ column for spammer and non-spammer.</h2>
